@@ -1,1 +1,4 @@
 code/data-unversioned/
+
+# LUNA16 データセットは除外
+data/part2/luna/
